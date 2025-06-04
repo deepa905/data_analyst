@@ -1,9 +1,11 @@
-# Superstore Sales Analysis
-**Tools**: Python, SQL, Power BI  
-**Key Insights**:  
-- Identified 15% higher sales in Q4  
-- Automated data cleaning with Python  
+# Superstore Sales Analysis  
+**Goal**: Identify sales trends and profitability insights.  
 
-## How to Use  
-1. Run `Python/data_cleaning.py`  
-2. Execute queries in `SQL/analysis.sql`  
+## Key Findings  
+- Technology products have 25% higher profit margins  
+- West region contributes 40% of total sales  
+
+## Tools Used  
+- Python (Pandas, Matplotlib)  
+- SQL (MySQL)  
+- Power BI    
